@@ -5,6 +5,6 @@
 
 🌱 喜欢玩沙盒游戏
 
-🤝 欢迎访问我的个人博客 [飘然的博客](http://nipuru.top)
+🤝 欢迎访问我的个人博客 [飘然的 BLOG](http://nipuru.top)
 
 📧 联系方式: **nipuru@163.com**
