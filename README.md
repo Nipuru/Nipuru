@@ -1,5 +1,4 @@
 ### 👋 你好! 我是飘然
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuru&hide_border=true&layout=compact"/>
 
 🎓 从事游戏服务端开发，Golang 方向
 
